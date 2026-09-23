@@ -1,0 +1,7 @@
+data/tool_history.sqlite3
+data/tool_history.sqlite3-shm
+data/tool_history.sqlite3-wal
+
+__pycache__/
+*.pyc
+.pytest_cache/

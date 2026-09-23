@@ -2,8 +2,7 @@
 gatherUsageStats = false
 
 [server]
-address = "localhost"
-headless = false
+headless = true
 maxUploadSize = 200
 
 [theme]
@@ -12,4 +11,3 @@ backgroundColor = "#FFFFFF"
 secondaryBackgroundColor = "#F4F7FA"
 textColor = "#1F2937"
 font = "sans serif"
-
